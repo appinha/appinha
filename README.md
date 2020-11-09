@@ -2,8 +2,10 @@
 
 ---
 
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&show_icons=true&hide=issues&theme=jolly)](https://github.com/appinha?tab=repositories) | [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
+| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&show_icons=true&hide=issues&theme=jolly)](https://github.com/appinha?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
 |:-:|:-:|
+
+![appinha's profile views](https://komarev.com/ghpvc/?username=appinha&color=a960ff&style=flat)
 
 <!--
 **appinha/appinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
