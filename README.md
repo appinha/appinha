@@ -1,4 +1,23 @@
-### Hi there 👋
+[![Galaxy poster](img/poster_galaxy.gif)](https://www.linkedin.com/in/appinha/)
+
+### Hi there <img src="https://github.com/appinha/appinha/tree/main/img/Hi.gif" width="30px">
+
+Thanks for visiting! 😄
+
+I'm an avid self-learner and passionate about teaching. I have a variety of interests:
+* 🎓  graduated architect and urbanist
+* 🌇  master's in architecture technology
+* ✏️  worked with marketing and design
+* 💻  software developer
+* 📖  private teacher
+* 🌎  languages
+* 🎹  pianist
+* 💃  ballet and tango
+* 🐾  animals
+
+I'm currently a _cadet_ (software engineering student) at the magnificent [42](https://www.42sp.org.br/). For 42's cadets: feel free to reach me on slack (@apuchill) 😉
+
+💬 I'll be happy to get in touch through [Linkedin](https://www.linkedin.com/in/appinha/)
 
 ---
 
