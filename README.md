@@ -17,13 +17,15 @@ I'm an avid self-learner and passionate 💜 about education. I have a variety o
 
 I'm currently a _cadet_ (software engineering student) at the magnificent [__École 42__](https://www.42sp.org.br/) ✨. For 42's cadets: feel free to reach me on Slack (@apuchill).
 
-💬 I'll be happy to get in touch through [Linkedin](https://www.linkedin.com/in/appinha/) 😉
+
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-0072b1?labelColor=0072b1&logo=LinkedIn)](https://www.linkedin.com/in/appinha/)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-0072b1?labelColor=0072b1&logo=LinkedIn)](https://www.linkedin.com/in/appinha/)
 
 ---
 
 | [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&show_icons=true&hide=issues&theme=jolly)](https://github.com/appinha?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
 |:-:|:-:|
 
-![appinha's visitors](https://komarev.com/ghpvc/?username=appinha&color=a960ff&style=flat&label=visitors)
-![appinha's followers](https://img.shields.io/github/followers/appinha?style=social)
-![appinha's stars](https://img.shields.io/github/stars/appinha?style=social)
+![appinha's visitors](https://komarev.com/ghpvc/?username=appinha&color=8c36db&style=flat&label=visitors)
+![appinha's followers](https://img.shields.io/github/followers/appinha?color=blueviolet)
+![appinha's stars](https://img.shields.io/github/stars/appinha?color=blueviolet)
