@@ -1,6 +1,6 @@
 [![Galaxy poster](img/poster_galaxy.gif)](https://www.linkedin.com/in/appinha/)
 
-### Hi there <img src="https://github.com/appinha/appinha/tree/main/img/Hi.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
 Thanks for visiting! 😄
 
