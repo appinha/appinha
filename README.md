@@ -9,11 +9,13 @@ I'm an avid self-learner and passionate 💜 about education. I have a variety o
 * 🌇  master's in architecture technology
 * ✏️  worked with marketing and design
 * 💻  software developer
-* 📖  private teacher
+* 📖  private teacher (FR EN PT)
 * 🌎  languages & travelling
 * 💃  ballet and tango
 * 🎹  pianist
 * 🐾  animals
+
+I have experience in diverse programming languages and technologies. My goal today is to broaden my knowledge in the **python** ecosystem 🐍, especially with APIs, Flask and such.
 
 I'm currently a _cadet_ (software engineering student) at the magnificent [__École 42__](https://www.42sp.org.br/) ✨. For 42's cadets: feel free to reach me on Slack (@apuchill).
 
@@ -29,7 +31,9 @@ I'm currently a _cadet_ (software engineering student) at the magnificent [__Éc
 |:-:|:-:|
 
 ![appinha's visitors](https://komarev.com/ghpvc/?username=appinha&color=8c36db&style=flat&label=visitors)
-\*
 ![appinha's followers](https://img.shields.io/github/followers/appinha?color=blueviolet)
-\*
 ![appinha's stars](https://img.shields.io/github/stars/appinha?color=blueviolet)
+
+---
+
+### Show some ❤️ by starring my repositories!
