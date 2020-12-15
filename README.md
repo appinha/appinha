@@ -4,7 +4,14 @@
 
 Thanks for visiting! 😄
 
-I'm an avid self-learner and passionate 💜 about education. I have a variety of interests:
+I'm an avid self-learner and passionate 💜 about education. 
+
+I have experience in diverse programming languages and technologies. My goal today is to broaden my knowledge in the **python** ecosystem 🐍, especially with APIs, Flask and such.
+
+I'm currently a _cadet_ (software engineering student) at the magnificent [__École 42__](https://www.42sp.org.br/) ✨. For 42's cadets: feel free to reach me on Slack (@apuchill).
+
+I have a variety of interests:
+
 * 🎓  graduated architect and urbanist
 * 🌇  master's in architecture technology
 * ✏️  worked with marketing and design
@@ -15,9 +22,8 @@ I'm an avid self-learner and passionate 💜 about education. I have a variety o
 * 🎹  pianist
 * 🐾  animals
 
-I have experience in diverse programming languages and technologies. My goal today is to broaden my knowledge in the **python** ecosystem 🐍, especially with APIs, Flask and such.
+... always learning something new 🤓
 
-I'm currently a _cadet_ (software engineering student) at the magnificent [__École 42__](https://www.42sp.org.br/) ✨. For 42's cadets: feel free to reach me on Slack (@apuchill).
 
 [![Ask Me Anything](https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com)](mailto:amanda_pinha@hotmail.com)
 \*
