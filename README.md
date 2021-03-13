@@ -1,14 +1,12 @@
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text "Amanda P. Pinha" in the center, and Linkedin url on the top right](img/poster_galaxy.gif)](https://www.linkedin.com/in/appinha/)
 
-### Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
-Thanks for visiting! 😄
+### Thanks for visiting! 😄
 
-I'm an avid self-learner and passionate 💜 about education. 
+I'm an avid self-learner and passionate 💜 about education. I'm currently a _Cadet_ (software engineering student) at [**École 42**](https://www.42sp.org.br/) ✨ and a full-stack Software Developer at **Geekie** 🧠.
 
-I have experience in diverse programming languages and technologies. My goal today is to broaden my knowledge in the **python** ecosystem 🐍, especially with APIs, Flask and such.
-
-I'm currently a _cadet_ (software engineering student) at the magnificent [__École 42__](https://www.42sp.org.br/) ✨. For 42's cadets: feel free to reach me on Slack (@apuchill).
+I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software development and impact students' lives through innovative ed-tech solutions.
 
 I have a variety of interests:
 
@@ -24,6 +22,7 @@ I have a variety of interests:
 
 ... always learning something new 🤓
 
+> 42's cadets: feel free to reach me on Slack (**@apuchill**).
 
 [![Ask Me Anything](https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com)](mailto:amanda_pinha@hotmail.com)
 \*
