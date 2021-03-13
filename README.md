@@ -4,7 +4,7 @@
 
 ### Thanks for visiting! 😄
 
-I'm an avid self-learner and passionate 💜 about education. I'm currently a _Cadet_ (software engineering student) at [**École 42**](https://www.42sp.org.br/) ✨ and a full-stack Software Developer at **Geekie** 🧠.
+I'm an avid self-learner and passionate 💜 about education. I'm currently a _Cadet_ (software engineering student) at [**École 42**](https://www.42sp.org.br/) ✨ and a full-stack Software Developer at [**Geekie**](https://www.geekie.com.br/) 🧠.
 
 I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software development and impact students' lives through innovative ed-tech solutions.
 
@@ -24,11 +24,19 @@ I have a variety of interests:
 
 > 42's cadets: feel free to reach me on Slack (**@apuchill**).
 
-[![Ask Me Anything](https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com)](mailto:amanda_pinha@hotmail.com)
-\*
-[![Demandez moi n'importe quoi](https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com)](mailto:amanda_pinha@hotmail.com)
-\*
-[![Linkedin Profile](https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/appinha/)](https://www.linkedin.com/in/appinha/)
+<p align="center">
+	<a href="mailto:amanda_pinha@hotmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+	</a>
+	<span> · </span>
+	<a href="mailto:amanda_pinha@hotmail.com">
+		<img alt="Demandez moi n'importe quoi" src="https://img.shields.io/badge/-Demandez_moi_n'%20importe_quoi-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" />
+	</a>
+	<span> · </span>
+	<a href="https://www.linkedin.com/in/appinha/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/appinha/" />
+	</a>
+</p>
 
 ---
 
