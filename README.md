@@ -4,16 +4,15 @@
 
 ### Thanks for visiting! 😄
 
-I'm an avid self-learner and passionate 💜 about education. I'm currently a _Cadet_ (software engineering student) at [**École 42**](https://www.42sp.org.br/) ✨ and a full-stack Software Developer at [**Geekie**](https://www.geekie.com.br/) 🧠.
+I'm an avid self-learner and passionate 💜 about education. I'm currently a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨ and a **full-stack software engineer** at [Geekie](https://www.geekie.com.br/) 🧠.
 
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software development 💻 and impact students' lives through innovative ed-tech solutions 💡.
+I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
 
 I have a variety of interests:
 
 * 🎓  graduated architect and urbanist
 * 🌇  master's in architecture technology
 * ✏️  worked with marketing and design
-* 💻  software developer
 * 📖  private teacher (FR EN PT)
 * 🌎  languages & travelling
 * 💃  ballet and tango
@@ -22,7 +21,7 @@ I have a variety of interests:
 
 ... always learning something new 🤓
 
-> 42's cadets: feel free to reach me on Slack (**@apuchill**).
+	42's cadets: feel free to reach me on Slack -> @apuchill
 
 <p align="center">
 	<a href="mailto:amanda_pinha@hotmail.com">
