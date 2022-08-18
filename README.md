@@ -1,4 +1,4 @@
-[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text "Amanda P. Pinha" in the center, and Linkedin url on the top right](img/poster_galaxy.gif)](https://www.linkedin.com/in/appinha/)
+[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text "Amanda P. Pinha" in the center, and Linkedin url on the top right](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/appinha/)
 
 ## Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
