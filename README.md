@@ -4,17 +4,17 @@
 	<img alt="appinha's stars" src="https://img.shields.io/github/stars/appinha?color=blueviolet" />
 </p>
 
-[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars, drawing of a ballerina and a cat in the left, the text "Amanda P. Pinha" in the center, and Linkedin url on the top right](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/appinha/)
+[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/appinha/)
 
 # Hi there <img src="https://raw.githubusercontent.com/appinha/appinha/main/img/Hi.gif" width="30px">
 
 ### Thanks for visiting! 😄
 
-I'm an avid self-learner and passionate about education 💜. I'm a **full-stack software engineer** at [Geekie](https://www.geekie.com.br/) 🧠 and used to be a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
+I'm a **full-stack software engineer** at [Hinge Health](https://www.hingehealth.com/)  and used to be a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
 
-I have experience in diverse programming languages and technologies. My current goal is to deepen my knowledge in software engineering 💻 and impact students' lives through innovative ed-tech solutions 💡.
+I've been working mainly with Python, JavaScript/TypeScript, React, React Native, Redux, Flask, PWA, SPA, SQL, MongoDB, AWS, Heroku, Docker, CI/CD.
 
-I have a variety of interests:
+I'm an avid self-learner and have a variety of interests:
 
 * 🎓  graduated architect and urbanist
 * 🏙  master's in architecture technology
@@ -24,8 +24,6 @@ I have a variety of interests:
 * 💃  ballet and tango
 * 🎹  pianist
 * 🐾  animals
-
-... always learning something new 🤓
 
 <p align="center">
 	<a href="mailto:amanda_pinha@hotmail.com">
