@@ -12,7 +12,7 @@
 
 I'm a **Full-stack Software Engineer** at [Clever Real Estate](https://listwithclever.com/) and used to be a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
 
-I've been working mainly with TypeScript/JavaScript, React, React Native, Redux/RTK, Vite, NextJS, Expo, Tailwindcss, Web Components, GraphQL/Apollo, Node, NestJS, Python, Django, Flask, PostgreSQL, MongoDB, Docker, REST APIs, AWS, Heroku, Mixpanel, Sentry, Datadog, New Relic, CI/CD.
+I have experience with TypeScript/JavaScript, React, React Native, Redux/RTK, Vite, NextJS, Expo, Tailwindcss, Web Components, GraphQL/Apollo, Node, NestJS, Python, Django, Flask, PostgreSQL, MongoDB, Docker, REST APIs, AWS, Heroku, Mixpanel, Sentry, Datadog, New Relic, CI/CD.
 
 I'm a versatile and results-driven technology professional with over 15 years of experience, the last third of which have been spent in software engineering. I have worked across diverse roles and industries, ranging from early-stage startups to established companies in sectors such as construction, aerospace, healthcare, education, and real estate. For more details on my experience and background, please visit https://appinha.dev/about/
 
@@ -26,8 +26,7 @@ I'm a versatile and results-driven technology professional with over 15 years of
 	<a href="https://profile.intra.42.fr/apuchill"><img alt="Profile at École 42" src="https://img.shields.io/badge/-apuchill_@_42-teal?style=flat&logoColor=white&link=https://profile.intra.42.fr/apuchill" /></a>
 </p>
 
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
-|:-:|:-:|
+<p align="center"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&include_all_commits=true&show_icons=true&rank_icon=percentile&hide_border=true&theme=jolly" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&langs_count=8&layout=compact&hide=css&hide_border=true&theme=jolly" /></p>
 
 ---
 
